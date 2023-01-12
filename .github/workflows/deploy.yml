@@ -10,7 +10,7 @@ env:
 jobs:
   test:
     env:
-      MONGODB_CLUSTER_ADDRESS: cluster0.nzxjdoj.mongodb.nets
+      MONGODB_CLUSTER_ADDRESS: cluster0.nzxjdoj.mongodb.net
       MONGODB_USERNAME: nvnthanh
       MONGODB_PASSWORD: 123456aZ
       PORT: 8080
